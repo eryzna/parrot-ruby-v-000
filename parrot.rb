@@ -1,5 +1,5 @@
 def parrot (phrase="Pretty bird!")
-  puts="Squawk!"
+  puts "Squawk!"
   "Squawk!"
 
 
